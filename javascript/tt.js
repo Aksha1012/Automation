@@ -1,4 +1,5 @@
 let a=5;
 let b=5;
-
-console.log(a+b);
+c=a+b
+d=3;
+console.log(c);
