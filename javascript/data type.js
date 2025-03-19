@@ -2,7 +2,7 @@
 let a=70;
 console.log(typeof a);
 //string
-let b='aksha';
+let b='lakshmi';
 console.log(typeof b);
 //undefind
 let g
